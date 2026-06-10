@@ -1,6 +1,7 @@
 .venv
-*.mod
+*.md
 *copy.ipynb
+*.png
 
 # Prerequisites
 *.d
