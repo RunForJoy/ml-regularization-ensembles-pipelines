@@ -2,7 +2,7 @@
 *.md
 *copy.ipynb
 *.png
-/data/
+src/data/
 
 # Prerequisites
 *.d
